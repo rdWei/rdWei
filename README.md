@@ -1,7 +1,7 @@
 <div align="center">
 
 <h3>Welcome to my GitHub Profile</h3>
-
+<img src="images/github.gif" alt="Animated GIF" />
 <table>
   <tr>
     <th>Project Name</th>
