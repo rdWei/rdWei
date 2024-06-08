@@ -33,7 +33,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/rdWei/SocialMediaHackingToolkit">SocialMediaHackingToolkit</a></td>
-      <td>🔒 Social Media Hacking Suite </td>
+      <td>🔒 Social Media Hacking Suite - Archived</td>
     </tr>
   </table>
 
