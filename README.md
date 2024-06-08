@@ -1,14 +1,28 @@
-<!-- Github README -->
-<p align="center"><a href="https://github.com/NullPulse">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NullPulse&show_icons=true&include_all_commits=yes&theme=dark&cache_seconds=3200&hide_border=false" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/NullPulse"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullPulse&layout=compact&theme=dark&hide_border=false" />
-</a></p>
+<div align="center">
 
-<p align="center"><a href="https://NullPulse.github.io/">NullPulse.github.io</a></p>
+<h3>Welcome to my GitHub Profile</h3>
 
-<br>
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Project 1</td>
+    <td>Brief description of Project 1</td>
+  </tr>
+  <tr>
+    <td>Project 2</td>
+    <td>Brief description of Project 2</td>
+  </tr>
+  <tr>
+    <td>Project 3</td>
+    <td>Brief description of Project 3</td>
+  </tr>
+</table>
 
-<p align="center"><a href="https://github.com/NullPulse">
+</div>
+
+<p align="center"><a href="https://github.com/rdWei">
 <img src="https://komarev.com/ghpvc/?username=NullPulse&style=flat&color=313131&label=views">
 </a></p>
