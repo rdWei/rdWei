@@ -1,7 +1,15 @@
 <div align="center">
 
 <h3>Welcome to my GitHub Profile</h3>
-<img src="images/github.gif" alt="Animated GIF" />
+
+<table align="personal website">
+  <tr>
+    <th>Column 1</th>
+  </tr>
+  <tr>
+    <td><img src="images/website.gif" alt="Animated GIF" /></td>  </tr>
+</table>
+
 <table>
   <tr>
     <th>Project Name</th>
