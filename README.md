@@ -14,28 +14,28 @@
 
 <br>
 
-<table>
-  <tr>
-    <th style="text-align: left;">Project</th>
-    <th style="text-align: left;">Description</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rdWei/Lawliet">LawLiet</a></td>
-    <td>🕵️ Find social media profiles by username across platforms</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rdWei/exaPhisher">ExaPhisher</a></td>
-    <td>🐟 Social Media Phishing Suite written in python & php </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rdWei/OsintTube">ExaPhisher</a></td>
-    <td>🔍 An Easy-to-Use YouTube OSINT Tool</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rdWei/SocialMediaHackingToolkit">SocialMediaHackingToolkit</a></td>
-    <td>🔒 Social Media Hacking Suite </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <th style="text-align: left;">Project</th>
+      <th style="text-align: left;">Description</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rdWei/Lawliet">LawLiet</a></td>
+      <td>🕵️ Find social media profiles by username across platforms</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rdWei/exaPhisher">ExaPhisher</a></td>
+      <td>🐟 Social Media Phishing Suite written in python & php </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rdWei/OsintTube">ExaPhisher</a></td>
+      <td>🔍 An Easy-to-Use YouTube OSINT Tool</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rdWei/SocialMediaHackingToolkit">SocialMediaHackingToolkit</a></td>
+      <td>🔒 Social Media Hacking Suite </td>
+    </tr>
+  </table>
 
 <br>
 
