@@ -54,6 +54,9 @@
 
 <br>
 
+<div align="center">
+  I'll only respond to those proposals that are a good match for my schedule and interests, thank you.
+</div>
 
 
 <p align="center"><a href="https://github.com/rdWei">
