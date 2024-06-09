@@ -28,7 +28,7 @@
       <td>🐟 Social Media Phishing Suite written in python & php </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/rdWei/OsintTube">ExaPhisher</a></td>
+      <td><a href="https://github.com/rdWei/OsintTube">OsintTube</a></td>
       <td>🔍 An Easy-to-Use YouTube OSINT Tool</td>
     </tr>
     <tr>
