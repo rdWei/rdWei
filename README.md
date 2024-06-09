@@ -20,6 +20,10 @@
       <th style="text-align: left;">Description</th>
     </tr>
     <tr>
+      <td><a href="https://github.com/rdWei/DiscDoor">DiscDoor</a></td>
+      <td>🔓 An Easy-to-Use Discord-Based Backdoor Tool </td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/rdWei/Lawliet">LawLiet</a></td>
       <td>🕵️ Find social media profiles by username across platforms</td>
     </tr>
