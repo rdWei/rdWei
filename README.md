@@ -43,6 +43,12 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdWei&layout=donut&theme=gruvbox">
+</div>
+
+<br>
+
 </div>
 
 <div align="center">
@@ -65,5 +71,5 @@
 <br>
 
 <p align="center"><a href="https://github.com/rdWei">
-<img src="https://komarev.com/ghpvc/?username=NullPulse&style=flat&color=313131&label=views">
+<img src="https://komarev.com/ghpvc/?username=rdWei&style=flat&color=313131&label=views">
 </a></p>
