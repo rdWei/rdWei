@@ -1,4 +1,4 @@
-## Suport Me
+## Donate Me
 
 | Cryptocurrency | Address |
 |----------------|---------|
