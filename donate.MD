@@ -1,7 +1,4 @@
-
-### [Buy Me A Coffee](https://buymeacoffee.com/rdwei)
-
-<h1></h1>
+## Donate Me
 
 | Cryptocurrency | Address |
 |----------------|---------|
