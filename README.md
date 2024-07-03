@@ -39,6 +39,10 @@
       <td><a href="https://github.com/rdWei/SocialMediaHackingToolkit">SocialMediaHackingToolkit</a></td>
       <td>🔒 Social Media Hacking Suite - Archived</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/rdWei/UMusic">UMusic</a></td>
+      <td>A feature-rich, lightweight PSP music player</td>
+    </tr>
   </table>
  
 <br>
