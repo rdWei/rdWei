@@ -16,7 +16,7 @@
 
   <table>
     <tr>
-      <th style="text-align: left;">Project</th>
+      <th style="text-align: left;">My Project</th>
       <th style="text-align: left;">Description</th>
     </tr>
     <tr>
