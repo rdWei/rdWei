@@ -20,6 +20,10 @@
       <th style="text-align: left;">Description</th>
     </tr>
     <tr>
+      <td><a href="https://github.com/rdWei/C-rypt">C-rypt</a></td>
+      <td>GUI Steganography tool entirely written in C</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/rdWei/DiscDoor">DiscDoor</a></td>
       <td>🔓 An Easy-to-Use Discord-Based Backdoor Tool </td>
     </tr>
@@ -41,7 +45,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/rdWei/UMusic">UMusic</a></td>
-      <td>A feature-rich, lightweight PSP music player</td>
+      <td>🎵 A feature-rich, lightweight PSP music player</td>
     </tr>
   </table>
  
