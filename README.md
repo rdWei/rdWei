@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/rdWei/C-rypt">C-rypt</a></td>
-      <td>GUI Steganography tool entirely written in C</td>
+      <td>🖼️ GUI Steganography tool entirely written in C</td>
     </tr>
     <tr>
       <td><a href="https://github.com/rdWei/DiscDoor">DiscDoor</a></td>
