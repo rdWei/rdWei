@@ -24,6 +24,10 @@
       <td>🖼️ GUI Steganography tool entirely written in C</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/rdWei/mousice">mousice</a></td>
+      <td>🎶 Suckless CLI YouTube-Music Player</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/rdWei/DiscDoor">DiscDoor</a></td>
       <td>🔓 An Easy-to-Use Discord-Based Backdoor Tool </td>
     </tr>
