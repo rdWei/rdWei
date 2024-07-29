@@ -6,7 +6,7 @@
 
 <table align="personal website">
 <tr>
-<th><img src="images/dolphin.webp" alt="Animated GIF" width="100" height="100" /></th>  </tr>
+<th><img src="images/spinning.gif" alt="Animated GIF" width="100" height="100" /></th>  </tr>
   
 <tr>
 <td><a href="https://rdwei.github.io/">Personal Website</a></td>
