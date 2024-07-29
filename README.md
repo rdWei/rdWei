@@ -13,7 +13,7 @@
   <tr>
     <td><a href="https://rdwei.github.io/">Personal Website</a></td>
     <td><a href="https://rdwei.github.io/last">Last Post</a></td>
-    <td><a href="https://rdwei.github.io/last">Instagram</a></td>
+    <td><a href="https://www.instagram.com/rdwe_i/">Instagram</a></td>
   </tr>
 </table>
 
