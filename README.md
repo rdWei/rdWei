@@ -6,7 +6,8 @@
 
 <table align="personal website">
 <tr>
-<th><img src="images/website.gif" alt="Animated GIF" width="100" height="100" /></th>  </tr>
+<th><img src="images/dolphin.webp" alt="Animated GIF" width="100" height="100" /></th>  </tr>
+  
 <tr>
 <td><a href="https://rdwei.github.io/">Personal Website</a></td>
 
@@ -55,8 +56,8 @@
  
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdWei&layout=donut&theme=dark">
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdWei&layout=donut&theme=dark" alt="GitHub Top Languages">
 </div>
 
 <br>
