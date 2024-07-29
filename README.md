@@ -4,13 +4,17 @@
 
 <br>
 
-<table align="personal website">
-<tr>
-<th><img src="images/spinning.gif" alt="Animated GIF" width="100" height="100" /></th>  </tr>
-  
-<tr>
-<td><a href="https://rdwei.github.io/">Personal Website</a></td>
-
+<table align="center">
+  <tr>
+    <th><img src="images/spinning_cross.gif" alt="Animated GIF" width="100" height="100" /></th>
+    <th><img src="images/eyebat.gif" alt="WebP Image 1" width="120" height="120" /></th>
+    <th><img src="images/spinningsh.gif" alt="WebP Image 1" width="120" height="120" /></th>
+  </tr>
+  <tr>
+    <td><a href="https://rdwei.github.io/">Personal Website</a></td>
+    <td><a href="https://rdwei.github.io/last">Last Post</a></td>
+    <td><a href="https://rdwei.github.io/last">Instagram</a></td>
+  </tr>
 </table>
 
 <br>
