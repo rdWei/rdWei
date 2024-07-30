@@ -37,7 +37,7 @@
 <br>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rdwei&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs" alt="GitHub Top Languages">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rdwei&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=FFC0CB&icon_color=FFC0CB&hide_title=true&hide=contribs" alt="GitHub Top Languages">
 </div>
 
 <br> <br>
