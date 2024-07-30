@@ -46,29 +46,23 @@
 <img src="images/br2.webp">
 
 
-<br>
+<br><br>
 
+
+<table align="center">
+  <tr>
+    <th><img src="images/nokia.gif" alt="Animated GIF" width="100" height="100" /></th>
+    <th><img src="images/money.gif" alt="WebP Image 1" width="120" height="120" /></th>
+  </tr>
+  <tr>
+    <td><a href="https://discord.gg/3r6mkjv6AP">Discord</a></td>
+    <td><a href="https://github.com/rdWei/rdWei/blob/main/donate.MD">Support Me</a></td>
+  </tr>
+</table>
 
 <div align="center">
   <i>I'll only respond to those proposals that are a good match for my schedule and interests, thank you.</i>
 </div>
-
-<br>
-
-<table align="center">
-  <tr>
-    <th><img src="images/dolphin.webp" alt="Animated GIF" width="100" height="100" /></th>
-    <th><img src="images/disk.webp" alt="WebP Image 1" width="120" height="120" /></th>
-    <th><img src="images/mush.webp" alt="WebP Image 1" width="120" height="120" /></th>
-  </tr>
-  <tr>
-    <td><a href="https://discord.gg/3r6mkjv6AP">Discord</a></td>
-    <td><a href="https://github.com/rdWei/rdWei/blob/main/donate.MD">BitCoin</a></td>
-    <td><a href="https://github.com/rdWei/rdWei/blob/main/donate.MD">Ethereum</a></td>
-    <td><a href="https://buymeacoffee.com/rdwei">Buy Me a Coffee</a></td>
-  </tr>
-</table>
-
 
 <p align="center"><a href="https://github.com/rdWei">
 <img src="https://komarev.com/ghpvc/?username=rdWei&style=flat&color=313131&label=views">
