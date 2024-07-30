@@ -60,9 +60,13 @@
   </tr>
 </table>
 
+<br>
+
 <div align="center">
   <i>I'll only respond to those proposals that are a good match for my schedule and interests, thank you.</i>
 </div>
+
+<br>
 
 <p align="center"><a href="https://github.com/rdWei">
 <img src="https://komarev.com/ghpvc/?username=rdWei&style=flat&color=313131&label=views">
