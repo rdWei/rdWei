@@ -2,6 +2,7 @@
 
 | Cryptocurrency | Address |
 |----------------|---------|
+| Monero (XMR) | `49mUcncyk6rEjMyBqdVQtHKUPqxKPM2XjAGJf8A1kRY35CUhH7naPv81UCkxtbrD2k7xpg48GhJHn3PciAa5Fx8CKCMeKcH` |
 | Ethereum (ETH) | `0xcbFb32eB8755c317f7df96517097671C46a5E6E3` |
 | Bitcoin (BTC)  | `bc1q4azqaaa2j335se2kzcpa9dnswpfzdjfsuanr55` |
 | Litecoin (LTC) | `ltc1q4g8dc95t9s2p4jvdmfucay6a8qv3ltt3m9dplk` |
