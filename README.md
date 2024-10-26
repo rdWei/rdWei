@@ -12,8 +12,8 @@
   </tr>
   <tr>
     <td><a href="">Personal Website</a></td>
-    <td><a href=">Last Post</a></td>
-    <td><a href=">Instagram</a></td>
+    <td><a href="">Last Post</a></td>
+    <td><a href="">Instagram</a></td>
   </tr>
 </table>
 
