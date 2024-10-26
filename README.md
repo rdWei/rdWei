@@ -11,9 +11,9 @@
     <th><img src="images/spinningsh.gif" alt="WebP Image 1" width="120" height="120" /></th>
   </tr>
   <tr>
-    <td><a href="https://rdwei.github.io/">Personal Website</a></td>
-    <td><a href="https://rdwei.github.io/last">Last Post</a></td>
-    <td><a href="https://www.instagram.com/rdwe_i/">Instagram</a></td>
+    <td><a href="">Personal Website</a></td>
+    <td><a href=">Last Post</a></td>
+    <td><a href=">Instagram</a></td>
   </tr>
 </table>
 
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td><a href="https://discord.gg/3r6mkjv6AP">Discord</a></td>
-    <td><a href="https://github.com/rdWei/rdWei/blob/main/donate.MD">Support Me</a></td>
+    <td><a href="">Support Me</a></td>
   </tr>
 </table>
 
