@@ -11,9 +11,9 @@
     <th><img src="images/spinningsh.gif" alt="WebP Image 1" width="120" height="120" /></th>
   </tr>
   <tr>
-    <td><a href="">Personal Website</a></td>
-    <td><a href="">Last Post</a></td>
-    <td><a href="">Instagram</a></td>
+    <td><a href="https://samueleamato.xyz/">Personal Website</a></td>
+    <td><a href="https://samueleamato.xyz/post/my-experience-with-psp-development">Last Post</a></td>
+    <td><a href="https://discord.com/invite/3r6mkjv6AP">Discord</a></td>
   </tr>
 </table>
 
