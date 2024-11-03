@@ -33,6 +33,13 @@
 | [OsintTube](https://github.com/rdWei/OsintTube)                            | 🔍 An Easy-to-Use YouTube OSINT Tool              |
 | [SocialMediaHackingToolkit](https://github.com/rdWei/SocialMediaHackingToolkit) | 🔒 Social Media Hacking Suite - Archived          |
 | [UMusic](https://github.com/rdWei/UMusic)                                  | 🎵 A feature-rich, lightweight PSP music player   |
+
+<br> <br>
+
+<div align="center">
+
+<p><b><i>Looking for collaboration!</i></b></p>
+
  
 <br>
 <br>
