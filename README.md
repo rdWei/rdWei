@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<p><b><i>Looking for collaboration!</i></b></p>
+<p><b><i>Looking for collaboration on gh!</i></b></p>
 
  
 <br>
