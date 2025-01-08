@@ -2,13 +2,11 @@
 <div align="center">
   <img src="images/welcome.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
-  <br />
   <h6>I'm rdWei, and I enjoy working with Rust, C, and all kinds of low-level sh1t</h6>
   <br />
   <br />
 </div>
 
-<br>
 <br>
 
 
