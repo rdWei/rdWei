@@ -17,5 +17,5 @@
   </tr>
   <tr>
     <td><a href="https://samueleamato.xyz/" target="_blank">Personal Website</a></td>
-    <td><a href="https://samueleamato.xyz/findmehere" target="_blank">Find me here !!!!</a></td>  </tr>
+    <td><a href="https://samueleamato.xyz" target="_blank">Find me here !!!!</a></td>  </tr>
 </table>
