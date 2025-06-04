@@ -16,6 +16,6 @@
     <th><img src="images/sonic.gif" alt="WebP Image 1" width="120" height="120" /></th>
   </tr>
   <tr>
-    <td><a href="https://samueleamato.xyz/" target="_blank">Personal Website</a></td>
-    <td><a href="https://samueleamato.xyz" target="_blank">Find me here !!!!</a></td>  </tr>
+    <td><a href="https://samueleamato.xyz" target="_blank">Personal Website</a></td>
+    <td><a href="https://samueleamato.xyz/#find-me-here" target="_blank">Find me here !!!!</a></td>  </tr>
 </table>
