@@ -19,3 +19,10 @@
     <td><a href="https://samueleamato.xyz" target="_blank">Personal Website</a></td>
     <td><a href="https://samueleamato.xyz/#find-me-here" target="_blank">Find me here !!!!</a></td>  </tr>
 </table>
+
+<br>
+<br>
+
+<div align=center>
+  <img src="https://img.shields.io/github/stars/rdwei?affiliations=OWNER&style=social">
+</div>
