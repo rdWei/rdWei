@@ -9,6 +9,14 @@
 
 <br>
 
+<a href="https://mastodon.social/@rdwei">
+<div align=center>
+  <img src="https://img.shields.io/badge/Mastodon-Follow Me on Mastodon !!!-blue?logo=mastodon&style=social">
+</div>
+</a>
+
+<br>
+<br>
 
 <table align="center">
   <tr>
