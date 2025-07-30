@@ -10,7 +10,7 @@
 
 <a href="https://mastodon.social/@rdwei">
 <div align=center>
-  <img src="https://img.shields.io/badge/Mastodon-Follow Me on Mastodon !!!-blue?logo=mastodon&style=social">
+  <img src="https://img.shields.io/badge/-Follow Me on Bluesky !!!-blue?logo=bluesky&style=social">
 </div>
 </a>
 
