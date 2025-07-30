@@ -8,7 +8,7 @@
 </div>
 <br>
 
-<a href="https://mastodon.social/@rdwei">
+<a href="https://bsky.app/profile/rdwei.bsky.social">
 <div align=center>
   <img src="https://img.shields.io/badge/-Follow Me on Bluesky !!!-blue?logo=bluesky&style=social">
 </div>
